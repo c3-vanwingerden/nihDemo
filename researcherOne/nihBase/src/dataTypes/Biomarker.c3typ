@@ -6,6 +6,6 @@ entity type Biomarker schema name "BIOM" {
     
     measurements: [BiomarkerMeasurement] (parent)
 
-    biblioEntries: [BiblioEntry] stored calc "unique(measurements.biblioEntry)" schema suffix "BIBENT"
+    //biblioEntries: [BiblioEntry] stored calc "unique(measurements.biblioEntry)" schema suffix "BIBENT"
     
 }
