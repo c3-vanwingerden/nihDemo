@@ -1,0 +1,6 @@
+{
+  "name" : "nihBase",
+  "description" : "Base NIH package",
+  "author" : "andrew.vanwingerden@c3iot.com",
+  "dependencies" : [ "standardDependencies" ]
+}
