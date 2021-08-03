@@ -1,0 +1,11 @@
+entity type Biomarker schema name "BIOM" {
+    
+    xRef: XRef
+    
+    loincCode: string
+    
+    measurements: [BiomarkerMeasurement] (parent)
+
+    biblioEntries: [BiblioEntry] stored calc "unique(measurements.biblioEntry)" schema suffix "BIBENT"
+    
+}

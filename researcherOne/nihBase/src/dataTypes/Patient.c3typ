@@ -1,0 +1,3 @@
+entity type Patient schema name "PTNT" {
+    studies: [BiblioEntry] schema suffix "STDS" // stored calc "intersects(patients.id, id)" 
+}

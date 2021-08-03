@@ -1,0 +1,3 @@
+entity type Disease schema name "DISEASE" {
+    category: string
+}

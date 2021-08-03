@@ -1,0 +1,25 @@
+entity type BiomarkerMeasurement schema name "BIOM_MSRMNT" {
+    
+    parent: Biomarker
+
+    biblioEntry: BiblioEntry
+
+    patients: [Patient] schema suffix "PTNT"
+
+    direction: string
+    
+    unit: string    
+
+    measurement: string 
+
+    bestType: string
+    
+    specimen: Specimen
+    
+    disease: Disease
+    
+    literature: clob
+    
+    notes: long string
+    
+}
