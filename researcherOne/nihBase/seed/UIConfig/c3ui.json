@@ -1,0 +1,31 @@
+{
+  "id": "uiconfig",
+  "applications": [
+    {
+      "id": "nihBase"
+    }
+  ],
+  "environments": [
+    {
+      "id": "development",
+      "session": {
+        "cache": "LocalStorage"
+      },
+      "locales": [
+        {
+          "id": "en",
+          "name": "English"
+        }
+      ],
+      "site": {
+        "renderLogo": false,
+        "hideNavigation": true
+      },
+      "connection": {
+        "cache": false
+      },
+      "c3Tools": true,
+      "acl": false
+    }
+  ]
+}
