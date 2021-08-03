@@ -2,7 +2,7 @@ entity type BiomarkerMeasurement schema name "BIOM_MSRMNT" {
     
     parent: Biomarker
 
-    biblioEntry: BiblioEntry
+    //biblioEntry: BiblioEntry
 
     patients: [Patient] schema suffix "PTNT"
 
