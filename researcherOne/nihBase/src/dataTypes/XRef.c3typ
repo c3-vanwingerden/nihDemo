@@ -1,0 +1,12 @@
+entity type XRef schema name "XREF" {
+    
+    biomarker: Biomarker
+    
+    link: string
+    
+    organization: string
+
+    organizationCode: string
+
+    biomarkerCode: string
+}
