@@ -1,0 +1,228 @@
+[
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesPage.PackageGrid.description",
+        "value": "Data Owner"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesPage.PackageGrid.packageName",
+        "value": "Study Title"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesPage.PackageGrid.publisher",
+        "value": "Restrictions"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesPage.PackageGrid.title",
+        "value": "Studies"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesPage.PackageGrid.version",
+        "value": "Study Subject"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesPage.PackageFilter.compatibility.header.label",
+        "value": "Data Restrictions"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesPage.PackageFilter.compatibility.text.label",
+        "value": "Only Show Studies For Public Use"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.Definition.CompatibleServer",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.Definition.CompatibleServer",
+        "value": "Study Subject"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.Definition.DatePublished",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.Definition.DatePublished",
+        "value": "Date Created"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.Definition.Description",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.Definition.Description",
+        "value": "Abstract"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.Definition.Logo",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.Definition.Logo",
+        "value": "Logo"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.Tab.Support",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.Tab.Support",
+        "value": "Data"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.About.Email",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.About.Email",
+        "value": "Data Collection End Date"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.About.Founded",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.About.Founded",
+        "value": "Data Owner Email"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.About.Phone",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.About.Phone",
+        "value": "Data Owner"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.About.Summany",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.About.Summany",
+        "value": "Summary"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.About.Website",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.About.Website",
+        "value": "Is Funded By"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.requestPackage",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.requestPackage",
+        "value": "Request Study"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.SupportGrid.header",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.SupportGrid.header",
+        "value": "Study Files"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.address",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.address",
+        "value": "Grant Number"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.email",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.email",
+        "value": "Name"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.header",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.header",
+        "value": "Data Owner Contact"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.phone",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.ContactList.phone",
+        "value": "Email"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackageDetailsPage.SupportGrid.category",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackageDetailsPage.SupportGrid.category",
+        "value": "Number of Subjects"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid",
+        "value": "My Studies"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.dateSubscribed",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.dateSubscribed",
+        "value": "Data Collection End Date"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.packageName",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.packageName",
+        "value": "Study Title"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.publisher",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.publisher",
+        "value": "Submitter Name"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.version",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscribedPackagesGrid.version",
+        "value": "Version"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid",
+        "value": "Pending Study Requests"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.dateRequested",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.dateRequested",
+        "value": "Date Requested"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.packageName",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.packageName",
+        "value": "Study Title"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.publisher",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.publisher",
+        "value": "Submitter Name"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.rowActions.contactC3",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.rowActions.contactC3",
+        "value": " Contact C3"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.rowActions.unsubscribe",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.rowActions.unsubscribe",
+        "value": "Remove"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.type",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.type",
+        "value": "Type"
+    },
+    {
+        "id": "en.MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.version",
+        "locale": "en",
+        "key": "MarketplaceManagement.MarketplacePackagesSubscriptionRequestsGrid.version",
+        "value": "Version"
+    },
+    {
+        "id": "en.DeveloperAdmin.Menu.develop",
+        "locale": "en",
+        "key": "DeveloperAdmin.Menu.develop",
+        "value": "Analyze"
+    },
+    {
+        "id": "en.DeveloperAdminAppDev.DevelopSubMenu.MenuTitle",
+        "locale": "en",
+        "key": "DeveloperAdminAppDev.DevelopSubMenu.MenuTitle",
+        "value": "Analyze"
+    },
+    {
+        "id": "en.DeveloperAdminAppDev.DevelopSubMenu.MyAppsAndPackages",
+        "locale": "en",
+        "key": "DeveloperAdminAppDev.DevelopSubMenu.MyAppsAndPackages",
+        "value": "My Workspaces"
+    }
+]

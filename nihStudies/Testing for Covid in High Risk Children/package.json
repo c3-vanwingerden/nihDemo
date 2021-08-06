@@ -1,0 +1,6 @@
+{
+  "name" : "Testing for Covid in High Risk Children",
+  "description" : "Testing for Covid in High Risk Children study",
+  "author" : "andrew.vanwingerden@c3iot.com",
+  "dependencies" : ["standardDependencies"]
+}

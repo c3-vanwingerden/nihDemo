@@ -1,0 +1,6 @@
+{
+  "name" : "RADx-ATP Concentric: A High-Throughput Next Generation Sequencing-based Molecular Diagnostic for SARS-CoV-2",
+  "description" : "RADx-ATP Concentric: A High-Throughput Next Generation Sequencing-based Molecular Diagnostic for SARS-CoV-2",
+  "author" : "andrew.vanwingerden@c3iot.com",
+  "dependencies" : ["standardDependencies"]
+}

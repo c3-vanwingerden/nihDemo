@@ -1,0 +1,6 @@
+{
+  "name" : "Scaling to Massive Throughput: 4.5 Million SARS-CoV-2 Tests per Day",
+  "description" : "Scaling to Massive Throughput: 4.5 Million SARS-CoV-2 Tests per Day",
+  "author" : "andrew.vanwingerden@c3iot.com",
+  "dependencies" : ["standardDependencies"]
+}
