@@ -1,0 +1,8 @@
+{
+  "name": "nihStudies",
+  "version": "1.0.0",
+  "description": "Repository for NIH studies",
+  "dependencies": {
+    "server": "7.23.0+497"
+  }
+}

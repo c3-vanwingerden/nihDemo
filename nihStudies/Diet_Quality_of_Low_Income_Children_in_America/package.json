@@ -1,0 +1,6 @@
+{
+  "name" : "Diet_Quality_of_Low_Income_Children_in_America",
+  "description" : "Diet Quality of Low Income Children in America",
+  "author" : "andrew.vanwingerden@c3iot.com",
+  "dependencies" : ["standardDependencies"]
+}
