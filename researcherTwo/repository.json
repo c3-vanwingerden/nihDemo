@@ -1,7 +1,8 @@
 {
-    "name": "researcherTwo",
-    "version": "1.0.0",
-    "description": "Researcher Two Repository"
+  "name" : "researcherTwo",
+  "version" : "1.0.0",
+  "description" : "Researcher Two Repository",
+  "dependencies" : {
+    "nihStudies" : "1.0.0+6"
   }
-  
-  
+}
