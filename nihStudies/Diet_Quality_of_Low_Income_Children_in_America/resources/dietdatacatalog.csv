@@ -1,0 +1,747 @@
+﻿Variable Name,Variable Description
+DBD100,How often {do you/does SP} add ordinary salt to {your/his/her/SP's} food at the table? Would you say . . .
+DBQ095Z,What type of salt {do you/does SP} usually add to {your/his/her/SP's} food at the table? Would you say . . .
+DR1_300,"Was the amount of food that {you/NAME} ate yesterday much more than usual, usual, or much less than usual?"
+DR1_320Z,"Total plain water drank yesterday - including plain tap water, water from a drinking fountain, water from a water cooler, bottled water, and spring water."
+DR1_330Z,Total tap water drank yesterday - including filtered tap water and water from a drinking fountain.
+DR1BWATZ,Total bottled water drank yesterday (gm)
+DR1DAY,Intake day of the week
+DR1DBIH,Number of days between intake day and the day of family questionnaire administered in the household.
+DR1DRSTZ,Dietary recall status
+DR1EXMER,Interviewer ID code
+DR1HELPD,Who helped in responding for this interview
+DR1LANG,The respondent spoke mostly:
+DR1MNRSP,Who was the main respondent for this interview?
+DR1SKY,"What type of salt was it? (Was it ordinary or seasoned salt, lite salt, or a salt substitute?)"
+DR1STY,"Did {you/SP} add any salt to {your/her/his} food at the table yesterday? Salt includes ordinary or seasoned salt, lite salt, or a salt substitute."
+DR1TACAR,Alpha-carotene (mcg)
+DR1TALCO,Alcohol (gm)
+DR1TATOA,Added alpha-tocopherol (Vitamin E) (mg)
+DR1TATOC,Vitamin E as alpha-tocopherol (mg)
+DR1TB12A,Added vitamin B12 (mcg)
+DR1TBCAR,Beta-carotene (mcg)
+DR1TCAFF,Caffeine (mg)
+DR1TCALC,Calcium (mg)
+DR1TCARB,Carbohydrate (gm)
+DR1TCHL,Total choline (mg)
+DR1TCHOL,Cholesterol (mg)
+DR1TCOPP,Copper (mg)
+DR1TCRYP,Beta-cryptoxanthin (mcg)
+DR1TFA,Folic acid (mcg)
+DR1TFDFE,Folate as dietary folate equivalents (mcg)
+DR1TFF,Food folate (mcg)
+DR1TFIBE,Dietary fiber (gm)
+DR1TFOLA,Total folate (mcg)
+DR1TIRON,Iron (mg)
+DR1TKCAL,Energy (kcal)
+DR1TLYCO,Lycopene (mcg)
+DR1TLZ,Lutein + zeaxanthin (mcg)
+DR1TM161,MFA 16:1 (Hexadecenoic) (gm)
+DR1TM181,MFA 18:1 (Octadecenoic) (gm)
+DR1TM201,MFA 20:1 (Eicosenoic) (gm)
+DR1TM221,MFA 22:1 (Docosenoic) (gm)
+DR1TMAGN,Magnesium (mg)
+DR1TMFAT,Total monounsaturated fatty acids (gm)
+DR1TMOIS,Moisture (gm)
+DR1TNIAC,Niacin (mg)
+DR1TNUMF,Total number of foods/beverages reported in the individual foods file
+DR1TP182,PFA 18:2 (Octadecadienoic) (gm)
+DR1TP183,PFA 18:3 (Octadecatrienoic) (gm)
+DR1TP184,PFA 18:4 (Octadecatetraenoic) (gm)
+DR1TP204,PFA 20:4 (Eicosatetraenoic) (gm)
+DR1TP205,PFA 20:5 (Eicosapentaenoic) (gm)
+DR1TP225,PFA 22:5 (Docosapentaenoic) (gm)
+DR1TP226,PFA 22:6 (Docosahexaenoic) (gm)
+DR1TPFAT,Total polyunsaturated fatty acids (gm)
+DR1TPHOS,Phosphorus (mg)
+DR1TPOTA,Potassium (mg)
+DR1TPROT,Protein (gm)
+DR1TRET,Retinol (mcg)
+DR1TS040,SFA 4:0 (Butanoic) (gm)
+DR1TS060,SFA 6:0 (Hexanoic) (gm)
+DR1TS080,SFA 8:0 (Octanoic) (gm)
+DR1TS100,SFA 10:0 (Decanoic) (gm)
+DR1TS120,SFA 12:0 (Dodecanoic) (gm)
+DR1TS140,SFA 14:0 (Tetradecanoic) (gm)
+DR1TS160,SFA 16:0 (Hexadecanoic) (gm)
+DR1TS180,SFA 18:0 (Octadecanoic) (gm)
+DR1TSELE,Selenium (mcg)
+DR1TSFAT,Total saturated fatty acids (gm)
+DR1TSODI,Sodium (mg)
+DR1TSUGR,Total sugars (gm)
+DR1TTFAT,Total fat (gm)
+DR1TTHEO,Theobromine (mg)
+DR1TVARA,Vitamin A as retinol activity equivalents (mcg)
+DR1TVB1,Thiamin (Vitamin B1) (mg)
+DR1TVB12,Vitamin B12 (mcg)
+DR1TVB2,Riboflavin (Vitamin B2) (mg)
+DR1TVB6,Vitamin B6 (mg)
+DR1TVC,Vitamin C (mg)
+DR1TVD,Vitamin D (D2 + D3) (mcg)
+DR1TVK,Vitamin K (mcg)
+DR1TWS,"When you drink tap water, what is the main source of the tap water? Is the city water supply (community water supply); a well or rain cistern; a spring; or something else?"
+DR1TZINC,Zinc (mg)
+DRABF,Indicates whether the sample person was an infant who was breast-fed on either of the two recall days.
+DRD340,"Please look at this list of shellfish. During the past 30 days did you eat any types of shellfish listed on this card? Include any foods that had shellfish in them such as sandwiches, soups, or salads."
+DRD350A,Clams eaten during past 30 days
+DRD350AQ,Number of times clams were eaten in the past 30 days
+DRD350B,Crabs eaten during past 30 days
+DRD350BQ,Number of times crab was eaten in the past 30 days
+DRD350C,Crayfish eaten during past 30 days
+DRD350CQ,Number of times crayfish was eaten in the past 30 days
+DRD350D,Lobsters eaten during past 30 days
+DRD350DQ,Number of times lobster was eaten in the past 30 days
+DRD350E,Mussels eaten during past 30 days
+DRD350EQ,Number of times mussels were eaten in the past 30 days
+DRD350F,Oysters eaten during past 30 days
+DRD350FQ,Number of times oysters were eaten in the past 30 days
+DRD350G,Scallops eaten during the past 30 days
+DRD350GQ,Number of times scallops were eaten in the past 30 days
+DRD350H,Shrimp eaten during past 30 days
+DRD350HQ,Number of times shrimp was eaten in the last 30 days
+DRD350I,"Other shellfish ( ex. octopus, squid) eaten during past 30 days"
+DRD350IQ,"Number of times other shellfish (ex. octopus, squid) was eaten in the past 30 days"
+DRD350J,Other unknown shellfish eaten during past 30 days
+DRD350JQ,Number of times other unknown shellfish was eaten in the past 30 days
+DRD350K,Refused to give detailed information on shellfish eaten during past 30 days
+DRD360,"Please look at this list of fish. During the past 30 days did you eat any types of fish listed on this card? Include any foods that had fish in them such as sandwiches, soups, or salads."
+DRD370A,Breaded fish products eaten during past 30 days
+DRD370AQ,Number of times breaded fish products were eaten in the past 30 days
+DRD370B,Tuna eaten during past 30 days
+DRD370BQ,Number of times tuna was eaten in the past 30 days
+DRD370C,Bass eaten during past 30 days
+DRD370CQ,Number of times bass was eaten in the past 30 days
+DRD370D,Catfish eaten during past 30 days
+DRD370DQ,Number of times catfish was eaten in the past 30 days
+DRD370E,Cod eaten during past 30 days
+DRD370EQ,Number of times cod was eaten in the past 30 days
+DRD370F,Flatfish eaten during past 30 days
+DRD370FQ,Number of times flatfish was eaten in the past 30 days
+DRD370G,Haddock eaten during past 30 days
+DRD370GQ,Number of times haddock was eaten in the past 30 days
+DRD370H,Mackerel eaten during past 30 days
+DRD370HQ,Number of times mackerel was eaten in the past 30 days
+DRD370I,Perch eaten during past 30 days
+DRD370IQ,Number of times perch was eaten in the past 30 days
+DRD370J,Pike eaten during past 30 days
+DRD370JQ,Number of times pike was eaten in the past 30 days
+DRD370K,Pollock eaten during past 30 days
+DRD370KQ,Number of times pollock was eaten in the past 30 days
+DRD370L,Porgy eaten during past 30 days
+DRD370LQ,Number of times porgy was eaten in the past 30 days
+DRD370M,Salmon eaten during past 30 days
+DRD370MQ,Number of times salmon was eaten in the past 30 days
+DRD370N,Sardines eaten during past 30 days
+DRD370NQ,Number of times sardines were eaten in the past 30 days
+DRD370O,Sea bass eaten during past 30 days
+DRD370OQ,Number of times sea bass was eaten in the past 30 days
+DRD370P,Shark eaten during past 30 days
+DRD370PQ,Number of times shark was eaten in the past 30 days
+DRD370Q,Swordfish eaten during past 30 days
+DRD370QQ,Number of times swordfish was eaten in the past 30 days
+DRD370R,Trout eaten during past 30 days
+DRD370RQ,Number of times trout was eaten in the past 30 days
+DRD370S,Walleye eaten during the past 30 days
+DRD370SQ,Number of times walleye was eaten in the past 30 days
+DRD370T,Other type of fish eaten during past 30 days
+DRD370TQ,Number of times other type of fish was eaten in the past 30 days
+DRD370U,Other unknown type eaten during past 30 days
+DRD370UQ,Number of times other unknown type of fish was eaten in the past 30 days
+DRD370V,Refused to give detailed information on fish eaten during past 30 days
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+DRQSDIET,"Are you currently on any kind of diet, either to lose weight or for some other health-related reason?"
+DRQSDT1,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT10,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT11,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT12,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT2,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT3,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT4,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT5,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT6,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT7,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT8,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT9,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSDT91,What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)
+DRQSPREP,"How often is ordinary salt or seasoned salt added in cooking or preparing foods in your household? Is it never, rarely, occasionally, or very often?"
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DR2_300,"Was the amount of food that {you/NAME} ate yesterday much more than usual, usual, or much less than usual?"
+DR2_320Z,"Total plain water drank yesterday - including plain tap water, water from a drinking fountain, water from a water cooler, bottled water, and spring water."
+DR2_330Z,Total tap water drank yesterday - including filtered tap water and water from a drinking fountain.
+DR2BWATZ,Total bottled water drank yesterday. (gm)
+DR2DAY,Intake day of the week
+DR2DBIH,Number of days between intake day and the day of family questionnaire administered in the household.
+DR2DRSTZ,Dietary recall status
+DR2EXMER,Interviewer ID code
+DR2HELPD,Who helped in responding for this interview
+DR2LANG,The respondent spoke mostly:
+DR2MNRSP,Who was the main respondent for this interview?
+DR2SKY,"What type of salt was it? (Was it ordinary or seasoned salt, lite salt, or a salt substitute?)"
+DR2STY,"Did {you/SP} add any salt to {your/her/his} food at the table yesterday? Salt includes ordinary or seasoned salt, lite salt, or a salt substitute."
+DR2TACAR,Alpha-carotene (mcg)
+DR2TALCO,Alcohol (gm)
+DR2TATOA,Added alpha-tocopherol (Vitamin E) (mg)
+DR2TATOC,Vitamin E as alpha-tocopherol (mg)
+DR2TB12A,Added vitamin B12 (mcg)
+DR2TBCAR,Beta-carotene (mcg)
+DR2TCAFF,Caffeine (mg)
+DR2TCALC,Calcium (mg)
+DR2TCARB,Carbohydrate (gm)
+DR2TCHL,Total choline (mg)
+DR2TCHOL,Cholesterol (mg)
+DR2TCOPP,Copper (mg)
+DR2TCRYP,Beta-cryptoxanthin (mcg)
+DR2TFA,Folic acid (mcg)
+DR2TFDFE,Folate as dietary folate equivalents (mcg)
+DR2TFF,Food folate (mcg)
+DR2TFIBE,Dietary fiber (gm)
+DR2TFOLA,Total folate (mcg)
+DR2TIRON,Iron (mg)
+DR2TKCAL,Energy (kcal)
+DR2TLYCO,Lycopene (mcg)
+DR2TLZ,Lutein + zeaxanthin (mcg)
+DR2TM161,MFA 16:1 (Hexadecenoic) (gm)
+DR2TM181,MFA 18:1 (Octadecenoic) (gm)
+DR2TM201,MFA 20:1 (Eicosenoic) (gm)
+DR2TM221,MFA 22:1 (Docosenoic) (gm)
+DR2TMAGN,Magnesium (mg)
+DR2TMFAT,Total monounsaturated fatty acids (gm)
+DR2TMOIS,Moisture (gm)
+DR2TNIAC,Niacin (mg)
+DR2TNUMF,Total number of foods/beverages reported in the individual foods file
+DR2TP182,PFA 18:2 (Octadecadienoic) (gm)
+DR2TP183,PFA 18:3 (Octadecatrienoic) (gm)
+DR2TP184,PFA 18:4 (Octadecatetraenoic) (gm)
+DR2TP204,PFA 20:4 (Eicosatetraenoic) (gm)
+DR2TP205,PFA 20:5 (Eicosapentaenoic) (gm)
+DR2TP225,PFA 22:5 (Docosapentaenoic) (gm)
+DR2TP226,PFA 22:6 (Docosahexaenoic) (gm)
+DR2TPFAT,Total polyunsaturated fatty acids (gm)
+DR2TPHOS,Phosphorus (mg)
+DR2TPOTA,Potassium (mg)
+DR2TPROT,Protein (gm)
+DR2TRET,Retinol (mcg)
+DR2TS040,SFA 4:0 (Butanoic) (gm)
+DR2TS060,SFA 6:0 (Hexanoic) (gm)
+DR2TS080,SFA 8:0 (Octanoic) (gm)
+DR2TS100,SFA 10:0 (Decanoic) (gm)
+DR2TS120,SFA 12:0 (Dodecanoic) (gm)
+DR2TS140,SFA 14:0 (Tetradecanoic) (gm)
+DR2TS160,SFA 16:0 (Hexadecanoic) (gm)
+DR2TS180,SFA 18:0 (Octadecanoic) (gm)
+DR2TSELE,Selenium (mcg)
+DR2TSFAT,Total saturated fatty acids (gm)
+DR2TSODI,Sodium (mg)
+DR2TSUGR,Total sugars (gm)
+DR2TTFAT,Total fat (gm)
+DR2TTHEO,Theobromine (mg)
+DR2TVARA,Vitamin A as retinol activity equivalents (mcg)
+DR2TVB1,Thiamin (Vitamin B1) (mg)
+DR2TVB12,Vitamin B12 (mcg)
+DR2TVB2,Riboflavin (Vitamin B2) (mg)
+DR2TVB6,Vitamin B6 (mg)
+DR2TVC,Vitamin C (mg)
+DR2TVD,Vitamin D (D2 + D3) (mcg)
+DR2TVK,Vitamin K (mcg)
+DR2TWS,"When you drink tap water, what is the main source of the tap water? Is the city water supply (community water supply); a well or rain cistern; a spring; or something else?"
+DR2TZINC,Zinc (mg)
+DRABF,Indicates whether the sample person was an infant who was breast-fed on either of the two recall days.
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DR1_020,What time did you begin to eat/drink the meal/food?
+DR1_030Z,Name of eating occasion
+DR1_040Z,Did you eat this meal at home?
+DR1CCMNM,Combination food number (sequential number)
+DR1CCMTX,Combination food type
+DR1DAY,Intake day of the week
+DR1DBIH,Number of days between intake day and the day of family questionnaire administered in the household.
+DR1DRSTZ,Dietary recall status
+DR1EXMER,Interviewer ID code
+DR1FS,Where did you get (this/most of the ingredients for this) {FOODNAME}?
+DR1IACAR,Alpha-carotene (mcg)
+DR1IALCO,Alcohol (gm)
+DR1IATOA,Added alpha-tocopherol (Vitamin E) (mg)
+DR1IATOC,Vitamin E as alpha-tocopherol (mg)
+DR1IB12A,Added vitamin B12 (mcg)
+DR1IBCAR,Beta-carotene (mcg)
+DR1ICAFF,Caffeine (mg)
+DR1ICALC,Calcium (mg)
+DR1ICARB,Carbohydrate (gm)
+DR1ICHL,Total choline (mg)
+DR1ICHOL,Cholesterol (mg)
+DR1ICOPP,Copper (mg)
+DR1ICRYP,Beta-cryptoxanthin (mcg)
+DR1IFA,Folic acid (mcg)
+DR1IFDCD,USDA food code
+DR1IFDFE,Folate as dietary folate equivalents (mcg)
+DR1IFF,Food folate (mcg)
+DR1IFIBE,Dietary fiber (gm)
+DR1IFOLA,Total folate (mcg)
+DR1IGRMS,Gram weight of the food/individual component
+DR1IIRON,Iron (mg)
+DR1IKCAL,Energy (kcal)
+DR1ILINE,Food/Individual component number
+DR1ILYCO,Lycopene (mcg)
+DR1ILZ,Lutein + zeaxanthin (mcg)
+DR1IM161,MFA 16:1 (Hexadecenoic) (gm)
+DR1IM181,MFA 18:1 (Octadecenoic) (gm)
+DR1IM201,MFA 20:1 (Eicosenoic) (gm)
+DR1IM221,MFA 22:1 (Docosenoic) (gm)
+DR1IMAGN,Magnesium (mg)
+DR1IMFAT,Total monounsaturated fatty acids (gm)
+DR1IMOIS,Moisture (gm)
+DR1INIAC,Niacin (mg)
+DR1IP182,PFA 18:2 (Octadecadienoic) (gm)
+DR1IP183,PFA 18:3 (Octadecatrienoic) (gm)
+DR1IP184,PFA 18:4 (Octadecatetraenoic) (gm)
+DR1IP204,PFA 20:4 (Eicosatetraenoic) (gm)
+DR1IP205,PFA 20:5 (Eicosapentaenoic) (gm)
+DR1IP225,PFA 22:5 (Docosapentaenoic) (gm)
+DR1IP226,PFA 22:6 (Docosahexaenoic) (gm)
+DR1IPFAT,Total polyunsaturated fatty acids (gm)
+DR1IPHOS,Phosphorus (mg)
+DR1IPOTA,Potassium (mg)
+DR1IPROT,Protein (gm)
+DR1IRET,Retinol (mcg)
+DR1IS040,SFA 4:0 (Butanoic) (gm)
+DR1IS060,SFA 6:0 (Hexanoic) (gm)
+DR1IS080,SFA 8:0 (Octanoic) (gm)
+DR1IS100,SFA 10:0 (Decanoic) (gm)
+DR1IS120,SFA 12:0 (Dodecanoic) (gm)
+DR1IS140,SFA 14:0 (Tetradecanoic) (gm)
+DR1IS160,SFA 16:0 (Hexadecanoic) (gm)
+DR1IS180,SFA 18:0 (Octadecanoic) (gm)
+DR1ISELE,Selenium (mcg)
+DR1ISFAT,Total saturated fatty acids (gm)
+DR1ISODI,Sodium (mg)
+DR1ISUGR,Total sugars (gm)
+DR1ITFAT,Total fat (gm)
+DR1ITHEO,Theobromine (mg)
+DR1IVARA,Vitamin A as retinol activity equivalents (mcg)
+DR1IVB1,Thiamin (Vitamin B1) (mg)
+DR1IVB12,Vitamin B12 (mcg)
+DR1IVB2,Riboflavin (Vitamin B2) (mg)
+DR1IVB6,Vitamin B6 (mg)
+DR1IVC,Vitamin C (mg)
+DR1IVD,Vitamin D (D2 + D3) (mcg)
+DR1IVK,Vitamin K (mcg)
+DR1IZINC,Zinc (mg)
+DR1LANG,The respondent spoke mostly:
+DRABF,Indicates whether the sample person was an infant who was breast-fed on either of the two recall days.
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DR2_020,What time did you begin to eat/drink the meal/food?
+DR2_030Z,Name of eating occasion
+DR2_040Z,Did you eat this meal at home?
+DR2CCMNM,Combination food number (sequential number)
+DR2CCMTX,Combination food type
+DR2DAY,Intake day of the week
+DR2DBIH,Number of days between intake day and the day of family questionnaire administered in the household.
+DR2DRSTZ,Dietary recall status
+DR2EXMER,Interviewer ID code
+DR2FS,Where did you get (this/most of the ingredients for this) {FOODNAME}?
+DR2IACAR,Alpha-carotene (mcg)
+DR2IALCO,Alcohol (gm)
+DR2IATOA,Added alpha-tocopherol (Vitamin E) (mg)
+DR2IATOC,Vitamin E as alpha-tocopherol (mg)
+DR2IB12A,Added vitamin B12 (mcg)
+DR2IBCAR,Beta-carotene (mcg)
+DR2ICAFF,Caffeine (mg)
+DR2ICALC,Calcium (mg)
+DR2ICARB,Carbohydrate (gm)
+DR2ICHL,Total choline (mg)
+DR2ICHOL,Cholesterol (mg)
+DR2ICOPP,Copper (mg)
+DR2ICRYP,Beta-cryptoxanthin (mcg)
+DR2IFA,Folic acid (mcg)
+DR2IFDCD,USDA food code
+DR2IFDFE,Folate as dietary folate equivalents (mcg)
+DR2IFF,Food folate (mcg)
+DR2IFIBE,Dietary fiber (gm)
+DR2IFOLA,Total folate (mcg)
+DR2IGRMS,Gram weight of the food/individual component
+DR2IIRON,Iron (mg)
+DR2IKCAL,Energy (kcal)
+DR2ILINE,Food/Individual component number
+DR2ILYCO,Lycopene (mcg)
+DR2ILZ,Lutein + zeaxanthin (mcg)
+DR2IM161,MFA 16:1 (Hexadecenoic) (gm)
+DR2IM181,MFA 18:1 (Octadecenoic) (gm)
+DR2IM201,MFA 20:1 (Eicosenoic) (gm)
+DR2IM221,MFA 22:1 (Docosenoic) (gm)
+DR2IMAGN,Magnesium (mg)
+DR2IMFAT,Total monounsaturated fatty acids (gm)
+DR2IMOIS,Moisture (gm)
+DR2INIAC,Niacin (mg)
+DR2IP182,PFA 18:2 (Octadecadienoic) (gm)
+DR2IP183,PFA 18:3 (Octadecatrienoic) (gm)
+DR2IP184,PFA 18:4 (Octadecatetraenoic) (gm)
+DR2IP204,PFA 20:4 (Eicosatetraenoic) (gm)
+DR2IP205,PFA 20:5 (Eicosapentaenoic) (gm)
+DR2IP225,PFA 22:5 (Docosapentaenoic) (gm)
+DR2IP226,PFA 22:6 (Docosahexaenoic) (gm)
+DR2IPFAT,Total polyunsaturated fatty acids (gm)
+DR2IPHOS,Phosphorus (mg)
+DR2IPOTA,Potassium (mg)
+DR2IPROT,Protein (gm)
+DR2IRET,Retinol (mcg)
+DR2IS040,SFA 4:0 (Butanoic) (gm)
+DR2IS060,SFA 6:0 (Hexanoic) (gm)
+DR2IS080,SFA 8:0 (Octanoic) (gm)
+DR2IS100,SFA 10:0 (Decanoic) (gm)
+DR2IS120,SFA 12:0 (Dodecanoic) (gm)
+DR2IS140,SFA 14:0 (Tetradecanoic) (gm)
+DR2IS160,SFA 16:0 (Hexadecanoic) (gm)
+DR2IS180,SFA 18:0 (Octadecanoic) (gm)
+DR2ISELE,Selenium (mcg)
+DR2ISFAT,Total saturated fatty acids (gm)
+DR2ISODI,Sodium (mg)
+DR2ISUGR,Total sugars (gm)
+DR2ITFAT,Total fat (gm)
+DR2ITHEO,Theobromine (mg)
+DR2IVARA,Vitamin A as retinol activity equivalents (mcg)
+DR2IVB1,Thiamin (Vitamin B1) (mg)
+DR2IVB12,Vitamin B12 (mcg)
+DR2IVB2,Riboflavin (Vitamin B2) (mg)
+DR2IVB6,Vitamin B6 (mg)
+DR2IVC,Vitamin C (mg)
+DR2IVD,Vitamin D (D2 + D3) (mcg)
+DR2IVK,Vitamin K (mcg)
+DR2IZINC,Zinc (mg)
+DR2LANG,The respondent spoke mostly:
+DRABF,Indicates whether the sample person was an infant who was breast fed on either of the two recall days.
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DRXFCLD,Long Food Code Description
+DRXFCSD,Short Food Code Description
+DRXFDCD,Food Code
+SEQN,Respondent sequence number.
+DR1DAY,Intake day of the week
+DR1DBIH,# of days b/w intake and HH interview
+DR1DRSTZ,Dietary recall status
+DR1EXMER,Interviewer ID code
+DR1LANG,The respondent spoke mostly:
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+DS1ACTSS,Reported serving size/label serving size
+DS1ANTA,Antacid containing calcium/magnesium
+DS1ICAFF,Caffeine (mg)
+DS1ICALC,Calcium (mg)
+DS1ICARB,Carbohydrate (gm)
+DS1ICHL,Total choline (mg)
+DS1ICHOL,Cholesterol (mg)
+DS1ICOPP,Copper (mg)
+DS1IFA,Folic acid (mcg)
+DS1IFDFE,"Folate, DFE (mcg)"
+DS1IFIBE,Dietary fiber (gm)
+DS1IIODI,Iodine (mcg)
+DS1IIRON,Iron (mg)
+DS1IKCAL,Energy (kcal)
+DS1ILYCO,Lycopene (mcg)
+DS1ILZ,Lutein + zeaxanthin (mcg)
+DS1IMAGN,Magnesium (mg)
+DS1IMFAT,Total monounsaturated fatty acids (gm)
+DS1INIAC,Niacin (mg)
+DS1IPFAT,Total polyunsaturated fatty acids (gm)
+DS1IPHOS,Phosphorus (mg)
+DS1IPOTA,Potassium (mg)
+DS1IPROT,Protein (gm)
+DS1ISELE,Selenium (mcg)
+DS1ISFAT,Total saturated fatty acids (gm)
+DS1ISODI,Sodium (mg)
+DS1ISUGR,Total sugars (gm)
+DS1ITFAT,Total fat (gm)
+DS1IVB1,Thiamin (Vitamin B1) (mg)
+DS1IVB12,Vitamin B12 (mcg)
+DS1IVB2,Riboflavin (Vitamin B2) (mg)
+DS1IVB6,Vitamin B6 (mg)
+DS1IVC,Vitamin C (mg)
+DS1IVD,Vitamin D (D2 + D3) (mcg)
+DS1IVK,Vitamin K (mcg)
+DS1IZINC,Zinc (mg)
+DS1LOC,Location supplement originally recorded
+DS1MTCH,DSDMTCH
+DSDSUPID,NCHS Supplement ID
+DSDSUPP,Supplement Name
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DSD070,Was container seen?
+DSD090,For how long have you been taking {PRODUCT NAME} or a similar type of product?
+DSD103,"In the past 30 days, on how many days did you take {PRODUCT NAME}?"
+DSD122Q,"On the days that (you/SP) took (PRODUCT NAME), how much did (you/SP), usually take on a single day?"
+DSD122U,"On the days that {you/SP} took {PRODUCT NAME}, how much did {you/SP} usually take on a single day?"
+DSD128AA,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128BB,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128DD,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128EE,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128FF,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128GG,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128HH,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128II,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128JJ,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128KK,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128LL,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128MM,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128T,What is the reason you take {PRODUCT NAME}? (Did you decide to take it for reasons of your own or did a doctor or other health provider tell you to take it?)
+DSD128V,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128W,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128X,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSD128Z,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSDACTSS,Reported serving size/label serving size
+DSDANTA,Antacid reported as a dietary supplement
+DSDDAY1,"Was Supplement taken during the 24 Hour Recall, Day 1?"
+DSDDAY2,"Was Supplement taken during the 24 Hour Recall, Day 2?"
+DSDMTCH,Matching code
+DSDSUPID,Supplement ID Number
+DSDSUPP,
+DSQ124,What is the reason you take {PRODUCT NAME}? (Did you decide to take it for reasons of your own or did a doctor or other health provider tell you to take it?)
+DSQ128A,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128B,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128C,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128D,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128E,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128F,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128G,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128H,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128I,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128J,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128K,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128L,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128M,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128N,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128NN,For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128O,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128P,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128Q,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128R,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQ128S,For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)
+DSQICAFF,Caffeine (mg)
+DSQICALC,Calcium (mg)
+DSQICARB,Carbohydrate (gm)
+DSQICHL,Total choline (mg)
+DSQICHOL,Cholesterol (mg)
+DSQICOPP,Copper (mg)
+DSQIFA,Folic acid (mcg)
+DSQIFDFE,"Folate, DFE (mcg)"
+DSQIFIBE,Dietary fiber (gm)
+DSQIIODI,
+DSQIIRON,Iron (mg)
+DSQIKCAL,Energy (kcal)
+DSQILYCO,Lycopene (mcg)
+DSQILZ,Lutein + zeaxanthin (mcg)
+DSQIMAGN,Magnesium (mg)
+DSQIMFAT,Total monounsaturated fatty acids (gm)
+DSQINIAC,Niacin (mg)
+DSQIPFAT,Total polyunsaturated fatty acids (gm)
+DSQIPHOS,Phosphorus (mg)
+DSQIPOTA,Potassium (mg)
+DSQIPROT,Protein (gm)
+DSQISELE,Selenium (mcg)
+DSQISFAT,Total saturated fatty acids (gm)
+DSQISODI,Sodium (mg)
+DSQISUGR,Total sugars (gm)
+DSQITFAT,Total fat (gm)
+DSQIVB1,Thiamin (Vitamin B1) (mg)
+DSQIVB12,Vitamin B12 (mcg)
+DSQIVB2,Riboflavin (Vitamin B2) (mg)
+DSQIVB6,Vitamin B6 (mg)
+DSQIVC,Vitamin C (mg)
+DSQIVD,Vitamin D (D2 + D3) (mcg)
+DSQIVK,Vitamin K (mcg)
+DSQIZINC,Zinc (mg)
+RXQ215A,"Did you take {PRODUCT NAME} as an antacid, as a calcium supplement, or both?"
+SEQN,Respondent sequence number.
+DR2DAY,Intake day of the week
+DR2DBIH,# of days b/w intake and HH interview
+DR2DRSTZ,Dietary recall status
+DR2EXMER,Interviewer ID code
+DR2LANG,The respondent spoke mostly:
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+DS2ACTSS,Reported serving size/label serving size
+DS2ANTA,Antacid containing calcium/magnesium
+DS2ICAFF,Caffeine (mg)
+DS2ICALC,Calcium (mg)
+DS2ICARB,Carbohydrate (gm)
+DS2ICHL,Total choline (mg)
+DS2ICHOL,Cholesterol (mg)
+DS2ICOPP,Copper (mg)
+DS2IFA,Folic acid (mcg)
+DS2IFDFE,"Folate, DFE (mcg)"
+DS2IFIBE,Dietary fiber (gm)
+DS2IIODI,Iodine (mcg)
+DS2IIRON,Iron (mg)
+DS2IKCAL,Energy (kcal)
+DS2ILYCO,Lycopene (mcg)
+DS2ILZ,Lutein + zeaxanthin (mcg)
+DS2IMAGN,Magnesium (mg)
+DS2IMFAT,Total monounsaturated fatty acids (gm)
+DS2INIAC,Niacin (mg)
+DS2IPFAT,Total polyunsaturated fatty acids (gm)
+DS2IPHOS,Phosphorus (mg)
+DS2IPOTA,Potassium (mg)
+DS2IPROT,Protein (gm)
+DS2ISELE,Selenium (mcg)
+DS2ISFAT,Total saturated fatty acids (gm)
+DS2ISODI,Sodium (mg)
+DS2ISUGR,Total sugars (gm)
+DS2ITFAT,Total fat (gm)
+DS2IVB1,Thiamin (Vitamin B1) (mg)
+DS2IVB12,Vitamin B12 (mcg)
+DS2IVB2,Riboflavin (Vitamin B2) (mg)
+DS2IVB6,Vitamin B6 (mg)
+DS2IVC,Vitamin C (mg)
+DS2IVD,Vitamin D (D2 + D3) (mcg)
+DS2IVK,Vitamin K (mcg)
+DS2IZINC,Zinc (mg)
+DS2LOC,Location supplement originally recorded
+DS2MTCH,Matching code
+DSDSUPID,NCHS Supplement ID
+DSDSUPP,Supplement Name
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DR1DAY,Intake day of the week
+DR1DBIH,# of days b/w intake and HH interview
+DR1DRSTZ,Dietary recall status
+DR1EXMER,Interviewer ID code
+DR1HELPD,Who helped in responding for this interview
+DR1LANG,The respondent spoke mostly:
+DR1MNRSP,Who was the main respondent for this interview?
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+DS1AN,Any Antacids Taken?
+DS1ANCNT,Total # of Antacids Taken
+DS1DS,Any Dietary Supplements taken in the past 24 hour?
+DS1DSCNT,Total # of Dietary Supplements Taken
+DS1TCAFF,Caffeine (mg)
+DS1TCALC,Calcium (mg)
+DS1TCARB,Carbohydrate (gm)
+DS1TCHL,Total choline (mg)
+DS1TCHOL,Cholesterol (mg)
+DS1TCOPP,Copper (mg)
+DS1TFA,Folic acid (mcg)
+DS1TFDFE,"Folate, DFE (mcg)"
+DS1TFIBE,Dietary fiber (gm)
+DS1TIODI,Iodine (mcg)
+DS1TIRON,Iron (mg)
+DS1TKCAL,Energy (kcal)
+DS1TLYCO,Lycopene (mcg)
+DS1TLZ,Lutein + zeaxanthin (mcg)
+DS1TMAGN,Magnesium (mg)
+DS1TMFAT,Total monounsaturated fatty acids (gm)
+DS1TNIAC,Niacin (mg)
+DS1TPFAT,Total polyunsaturated fatty acids (gm)
+DS1TPHOS,Phosphorus (mg)
+DS1TPOTA,Potassium (mg)
+DS1TPROT,Protein (gm)
+DS1TSELE,Selenium (mcg)
+DS1TSFAT,Total saturated fatty acids (gm)
+DS1TSODI,Sodium (mg)
+DS1TSUGR,Total sugars (gm)
+DS1TTFAT,Total fat (gm)
+DS1TVB1,Thiamin (Vitamin B1) (mg)
+DS1TVB12,Vitamin B12 (mcg)
+DS1TVB2,Riboflavin (Vitamin B2) (mg)
+DS1TVB6,Vitamin B6 (mg)
+DS1TVC,Vitamin C (mg)
+DS1TVD,Vitamin D (D2 + D3) (mcg)
+DS1TVK,Vitamin K (mcg)
+DS1TZINC,Zinc (mg)
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DR2DAY,Intake day of the week
+DR2DBIH,# of days b/w intake and HH interview
+DR2DRSTZ,Dietary recall status
+DR2EXMER,Interviewer ID code
+DR2HELPD,Who helped in responding for this interview
+DR2LANG,The respondent spoke mostly:
+DR2MNRSP,Who was the main respondent for this interview?
+DRDINT,Indicates whether the sample person has intake data for one or two days.
+DS2AN,Any Antacids Taken?
+DS2ANCNT,Total # of Antacids Taken
+DS2DS,Any Dietary Supplements taken in the past 24 hour?
+DS2DSCNT,Total # of Dietary Supplements Taken
+DS2TCAFF,Caffeine (mg)
+DS2TCALC,Calcium (mg)
+DS2TCARB,Carbohydrate (gm)
+DS2TCHL,Total choline (mg)
+DS2TCHOL,Cholesterol (mg)
+DS2TCOPP,Copper (mg)
+DS2TFA,Folic acid (mcg)
+DS2TFDFE,"Folate, DFE (mcg)"
+DS2TFIBE,Dietary fiber (gm)
+DS2TIODI,Iodine (mcg)
+DS2TIRON,Iron (mg)
+DS2TKCAL,Energy (kcal)
+DS2TLYCO,Lycopene (mcg)
+DS2TLZ,Lutein + zeaxanthin (mcg)
+DS2TMAGN,Magnesium (mg)
+DS2TMFAT,Total monounsaturated fatty acids (gm)
+DS2TNIAC,Niacin (mg)
+DS2TPFAT,Total polyunsaturated fatty acids (gm)
+DS2TPHOS,Phosphorus (mg)
+DS2TPOTA,Potassium (mg)
+DS2TPROT,Protein (gm)
+DS2TSELE,Selenium (mcg)
+DS2TSFAT,Total saturated fatty acids (gm)
+DS2TSODI,Sodium (mg)
+DS2TSUGR,Total sugars (gm)
+DS2TTFAT,Total fat (gm)
+DS2TVB1,Thiamin (Vitamin B1) (mg)
+DS2TVB12,Vitamin B12 (mcg)
+DS2TVB2,Riboflavin (Vitamin B2) (mg)
+DS2TVB6,Vitamin B6 (mg)
+DS2TVC,Vitamin C (mg)
+DS2TVD,Vitamin D (D2 + D3) (mcg)
+DS2TVK,Vitamin K (mcg)
+DS2TZINC,Zinc (mg)
+SEQN,Respondent sequence number.
+WTDR2D,Dietary two-day sample weight
+WTDRD1,Dietary day one sample weight
+DSD010,"The next questions are about {your/SP's} use of dietary supplements and medications during the past month. {Have you/Has SP} used or taken any vitamins, minerals or other dietary supplements in the past month? Include those products prescribed by a health professional such as a doctor or dentist, and those that do not require a prescription. This card lists some examples of different types of dietary supplements."
+DSD010AN,
+DSDANCNT,Includes all antacids reported with medications.
+DSDCOUNT,"Includes all supplements and the antacids reported with supplements, but not antacids reported with medications."
+DSQTCAFF,Caffeine (mg)
+DSQTCALC,Calcium (mg)
+DSQTCARB,Carbohydrate (gm)
+DSQTCHL,Total choline (mg)
+DSQTCHOL,Cholesterol (mg)
+DSQTCOPP,Copper (mg)
+DSQTFA,Folic acid (mcg)
+DSQTFDFE,"Folate, DFE (mcg)"
+DSQTFIBE,Dietary fiber (gm)
+DSQTIODI,Iodine (mcg)
+DSQTIRON,Iron (mg)
+DSQTKCAL,Energy (kcal)
+DSQTLYCO,Lycopene (mcg)
+DSQTLZ,Lutein + zeaxanthin (mcg)
+DSQTMAGN,Magnesium (mg)
+DSQTMFAT,Total monosaturated fatty acids (gm)
+DSQTNIAC,Niacin (mg)
+DSQTPFAT,Total polyunsaturated fatty acids (gm)
+DSQTPHOS,Phosphorus (mg)
+DSQTPOTA,Potassium (mg)
+DSQTPROT,Protein (gm)
+DSQTSELE,Selenium (mcg)
+DSQTSFAT,Total saturated fatty acids (gm)
+DSQTSODI,Sodium (mg)
+DSQTSUGR,Total sugars (gm)
+DSQTTFAT,Total fat (gm)
+DSQTVB1,Thiamin (Vitamin B1) (mg)
+DSQTVB12,Vitamin B12 (mcg)
+DSQTVB2,Riboflavin (Vitamin B2) (mg)
+DSQTVB6,Vitamin B6 (mg)
+DSQTVC,Vitamin C (mg)
+DSQTVD,Vitamin D (D2 + D3) (mcg)
+DSQTVK,Vitamin K (mcg)
+DSQTZINC,Zinc (mg)
+SEQN,Respondent sequence number.
