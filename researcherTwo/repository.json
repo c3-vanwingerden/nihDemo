@@ -3,6 +3,6 @@
   "version" : "1.0.0",
   "description" : "Researcher Two Repository",
   "dependencies" : {
-    "nihStudies" : "1.0.0+6"
+    "nihStudies" : "1.0.0+6 || 1.0.0+8 || 1.0.0+8"
   }
 }
