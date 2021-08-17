@@ -1,1 +1,508 @@
-type TransformCanonicalDietToDiet mixes Diet transforms CanonicalDiet
+type TransformCanonicalDietToDiet mixes Diet transforms CanonicalDiet {
+  
+  @db(length=64)
+  DBD100: ~ expression 'DBD100'
+
+  @db(length=64)
+  DBQ095Z: ~ expression 'DBQ095Z'
+
+  @db(length=64)
+  DR1300: ~ expression 'DR1300'
+
+  @db(length=64)
+  DR1320Z: ~ expression 'DR1320Z'
+
+  @db(length=64)
+  DR1330Z: ~ expression 'DR1330Z'
+
+  @db(length=64)
+  DR1BWATZ: ~ expression 'DR1BWATZ'
+
+  @db(length=64)
+  DR1DAY: ~ expression 'DR1DAY'
+
+  @db(length=64)
+  DR1DBIH: ~ expression 'DR1DBIH'
+
+  @db(length=64)
+  DR1DRSTZ: ~ expression 'DR1DRSTZ'
+
+  @db(length=64)
+  DR1EXMER: ~ expression 'DR1EXMER'
+
+  @db(length=64)
+  DR1HELPD: ~ expression 'DR1HELPD'
+
+  @db(length=64)
+  DR1LANG: ~ expression 'DR1LANG'
+
+  @db(length=64)
+  DR1MNRSP: ~ expression 'DR1MNRSP'
+
+  @db(length=64)
+  DR1SKY: ~ expression 'DR1SKY'
+
+  @db(length=64)
+  DR1STY: ~ expression 'DR1STY'
+
+  @db(length=64)
+  DR1TACAR: ~ expression 'DR1TACAR'
+
+  @db(length=64)
+  DR1TALCO: ~ expression 'DR1TALCO'
+
+  @db(length=64)
+  DR1TATOA: ~ expression 'DR1TATOA'
+
+  @db(length=64)
+  DR1TATOC: ~ expression 'DR1TATOC'
+
+  @db(length=64)
+  DR1TB12A: ~ expression 'DR1TB12A'
+
+  @db(length=64)
+  DR1TBCAR: ~ expression 'DR1TBCAR'
+
+  @db(length=64)
+  DR1TCAFF: ~ expression 'DR1TCAFF'
+
+  @db(length=64)
+  DR1TCALC: ~ expression 'DR1TCALC'
+
+  @db(length=64)
+  DR1TCARB: ~ expression 'DR1TCARB'
+
+  @db(length=64)
+  DR1TCHL: ~ expression 'DR1TCHL'
+
+  @db(length=64)
+  DR1TCHOL: ~ expression 'DR1TCHOL'
+
+  @db(length=64)
+  DR1TCOPP: ~ expression 'DR1TCOPP'
+
+  @db(length=64)
+  DR1TCRYP: ~ expression 'DR1TCRYP'
+
+  @db(length=64)
+  DR1TFA: ~ expression 'DR1TFA'
+
+  @db(length=64)
+  DR1TFDFE: ~ expression 'DR1TFDFE'
+
+  @db(length=64)
+  DR1TFF: ~ expression 'DR1TFF'
+
+  @db(length=64)
+  DR1TFIBE: ~ expression 'DR1TFIBE'
+
+  @db(length=64)
+  DR1TFOLA: ~ expression 'DR1TFOLA'
+
+  @db(length=64)
+  DR1TIRON: ~ expression 'DR1TIRON'
+
+  @db(length=64)
+  DR1TKCAL: ~ expression 'DR1TKCAL'
+
+  @db(length=64)
+  DR1TLYCO: ~ expression 'DR1TLYCO'
+
+  @db(length=64)
+  DR1TLZ: ~ expression 'DR1TLZ'
+
+  @db(length=64)
+  DR1TM161: ~ expression 'DR1TM161'
+
+  @db(length=64)
+  DR1TM181: ~ expression 'DR1TM181'
+
+  @db(length=64)
+  DR1TM201: ~ expression 'DR1TM201'
+
+  @db(length=64)
+  DR1TM221: ~ expression 'DR1TM221'
+
+  @db(length=64)
+  DR1TMAGN: ~ expression 'DR1TMAGN'
+
+  @db(length=64)
+  DR1TMFAT: ~ expression 'DR1TMFAT'
+
+  @db(length=64)
+  DR1TMOIS: ~ expression 'DR1TMOIS'
+
+  @db(length=64)
+  DR1TNIAC: ~ expression 'DR1TNIAC'
+
+  @db(length=64)
+  DR1TNUMF: ~ expression 'DR1TNUMF'
+
+  @db(length=64)
+  DR1TP182: ~ expression 'DR1TP182'
+
+  @db(length=64)
+  DR1TP183: ~ expression 'DR1TP183'
+
+  @db(length=64)
+  DR1TP184: ~ expression 'DR1TP184'
+
+  @db(length=64)
+  DR1TP204: ~ expression 'DR1TP204'
+
+  @db(length=64)
+  DR1TP205: ~ expression 'DR1TP205'
+
+  @db(length=64)
+  DR1TP225: ~ expression 'DR1TP225'
+
+  @db(length=64)
+  DR1TP226: ~ expression 'DR1TP226'
+
+  @db(length=64)
+  DR1TPFAT: ~ expression 'DR1TPFAT'
+
+  @db(length=64)
+  DR1TPHOS: ~ expression 'DR1TPHOS'
+
+  @db(length=64)
+  DR1TPOTA: ~ expression 'DR1TPOTA'
+
+  @db(length=64)
+  DR1TPROT: ~ expression 'DR1TPROT'
+
+  @db(length=64)
+  DR1TRET: ~ expression 'DR1TRET'
+
+  @db(length=64)
+  DR1TS040: ~ expression 'DR1TS040'
+
+  @db(length=64)
+  DR1TS060: ~ expression 'DR1TS060'
+
+  @db(length=64)
+  DR1TS080: ~ expression 'DR1TS080'
+
+  @db(length=64)
+  DR1TS100: ~ expression 'DR1TS100'
+
+  @db(length=64)
+  DR1TS120: ~ expression 'DR1TS120'
+
+  @db(length=64)
+  DR1TS140: ~ expression 'DR1TS140'
+
+  @db(length=64)
+  DR1TS160: ~ expression 'DR1TS160'
+
+  @db(length=64)
+  DR1TS180: ~ expression 'DR1TS180'
+
+  @db(length=64)
+  DR1TSELE: ~ expression 'DR1TSELE'
+
+  @db(length=64)
+  DR1TSFAT: ~ expression 'DR1TSFAT'
+
+  @db(length=64)
+  DR1TSODI: ~ expression 'DR1TSODI'
+
+  @db(length=64)
+  DR1TSUGR: ~ expression 'DR1TSUGR'
+
+  @db(length=64)
+  DR1TTFAT: ~ expression 'DR1TTFAT'
+
+  @db(length=64)
+  DR1TTHEO: ~ expression 'DR1TTHEO'
+
+  @db(length=64)
+  DR1TVARA: ~ expression 'DR1TVARA'
+
+  @db(length=64)
+  DR1TVB1: ~ expression 'DR1TVB1'
+
+  @db(length=64)
+  DR1TVB12: ~ expression 'DR1TVB12'
+
+  @db(length=64)
+  DR1TVB2: ~ expression 'DR1TVB2'
+
+  @db(length=64)
+  DR1TVB6: ~ expression 'DR1TVB6'
+
+  @db(length=64)
+  DR1TVC: ~ expression 'DR1TVC'
+
+  @db(length=64)
+  DR1TVD: ~ expression 'DR1TVD'
+
+  @db(length=64)
+  DR1TVK: ~ expression 'DR1TVK'
+
+  @db(length=64)
+  DR1TWS: ~ expression 'DR1TWS'
+
+  @db(length=64)
+  DR1TZINC: ~ expression 'DR1TZINC'
+
+  @db(length=64)
+  DRABF: ~ expression 'DRABF'
+
+  @db(length=64)
+  DRD340: ~ expression 'DRD340'
+
+  @db(length=64)
+  DRD350A: ~ expression 'DRD350A'
+
+  @db(length=64)
+  DRD350AQ: ~ expression 'DRD350AQ'
+
+  @db(length=64)
+  DRD350B: ~ expression 'DRD350B'
+
+  @db(length=64)
+  DRD350BQ: ~ expression 'DRD350BQ'
+
+  @db(length=64)
+  DRD350C: ~ expression 'DRD350C'
+
+  @db(length=64)
+  DRD350CQ: ~ expression 'DRD350CQ'
+
+  @db(length=64)
+  DRD350D: ~ expression 'DRD350D'
+
+  @db(length=64)
+  DRD350DQ: ~ expression 'DRD350DQ'
+
+  @db(length=64)
+  DRD350E: ~ expression 'DRD350E'
+
+  @db(length=64)
+  DRD350EQ: ~ expression 'DRD350EQ'
+
+  @db(length=64)
+  DRD350F: ~ expression 'DRD350F'
+
+  @db(length=64)
+  DRD350FQ: ~ expression 'DRD350FQ'
+
+  @db(length=64)
+  DRD350G: ~ expression 'DRD350G'
+
+  @db(length=64)
+  DRD350GQ: ~ expression 'DRD350GQ'
+
+  @db(length=64)
+  DRD350H: ~ expression 'DRD350H'
+
+  @db(length=64)
+  DRD350HQ: ~ expression 'DRD350HQ'
+
+  @db(length=64)
+  DRD350I: ~ expression 'DRD350I'
+
+  @db(length=64)
+  DRD350IQ: ~ expression 'DRD350IQ'
+
+  @db(length=64)
+  DRD350J: ~ expression 'DRD350J'
+
+  @db(length=64)
+  DRD350JQ: ~ expression 'DRD350JQ'
+
+  @db(length=64)
+  DRD350K: ~ expression 'DRD350K'
+
+  @db(length=64)
+  DRD360: ~ expression 'DRD360'
+
+  @db(length=64)
+  DRD370A: ~ expression 'DRD370A'
+
+  @db(length=64)
+  DRD370AQ: ~ expression 'DRD370AQ'
+
+  @db(length=64)
+  DRD370B: ~ expression 'DRD370B'
+
+  @db(length=64)
+  DRD370BQ: ~ expression 'DRD370BQ'
+
+  @db(length=64)
+  DRD370C: ~ expression 'DRD370C'
+
+  @db(length=64)
+  DRD370CQ: ~ expression 'DRD370CQ'
+
+  @db(length=64)
+  DRD370D: ~ expression 'DRD370D'
+
+  @db(length=64)
+  DRD370DQ: ~ expression 'DRD370DQ'
+
+  @db(length=64)
+  DRD370E: ~ expression 'DRD370E'
+
+  @db(length=64)
+  DRD370EQ: ~ expression 'DRD370EQ'
+
+  @db(length=64)
+  DRD370F: ~ expression 'DRD370F'
+
+  @db(length=64)
+  DRD370FQ: ~ expression 'DRD370FQ'
+
+  @db(length=64)
+  DRD370G: ~ expression 'DRD370G'
+
+  @db(length=64)
+  DRD370GQ: ~ expression 'DRD370GQ'
+
+  @db(length=64)
+  DRD370H: ~ expression 'DRD370H'
+
+  @db(length=64)
+  DRD370HQ: ~ expression 'DRD370HQ'
+
+  @db(length=64)
+  DRD370I: ~ expression 'DRD370I'
+
+  @db(length=64)
+  DRD370IQ: ~ expression 'DRD370IQ'
+
+  @db(length=64)
+  DRD370J: ~ expression 'DRD370J'
+
+  @db(length=64)
+  DRD370JQ: ~ expression 'DRD370JQ'
+
+  @db(length=64)
+  DRD370K: ~ expression 'DRD370K'
+
+  @db(length=64)
+  DRD370KQ: ~ expression 'DRD370KQ'
+
+  @db(length=64)
+  DRD370L: ~ expression 'DRD370L'
+
+  @db(length=64)
+  DRD370LQ: ~ expression 'DRD370LQ'
+
+  @db(length=64)
+  DRD370M: ~ expression 'DRD370M'
+
+  @db(length=64)
+  DRD370MQ: ~ expression 'DRD370MQ'
+
+  @db(length=64)
+  DRD370N: ~ expression 'DRD370N'
+
+  @db(length=64)
+  DRD370NQ: ~ expression 'DRD370NQ'
+
+  @db(length=64)
+  DRD370O: ~ expression 'DRD370O'
+
+  @db(length=64)
+  DRD370OQ: ~ expression 'DRD370OQ'
+
+  @db(length=64)
+  DRD370P: ~ expression 'DRD370P'
+
+  @db(length=64)
+  DRD370PQ: ~ expression 'DRD370PQ'
+
+  @db(length=64)
+  DRD370Q: ~ expression 'DRD370Q'
+
+  @db(length=64)
+  DRD370QQ: ~ expression 'DRD370QQ'
+
+  @db(length=64)
+  DRD370R: ~ expression 'DRD370R'
+
+  @db(length=64)
+  DRD370RQ: ~ expression 'DRD370RQ'
+
+  @db(length=64)
+  DRD370S: ~ expression 'DRD370S'
+
+  @db(length=64)
+  DRD370SQ: ~ expression 'DRD370SQ'
+
+  @db(length=64)
+  DRD370T: ~ expression 'DRD370T'
+
+  @db(length=64)
+  DRD370TQ: ~ expression 'DRD370TQ'
+
+  @db(length=64)
+  DRD370U: ~ expression 'DRD370U'
+
+  @db(length=64)
+  DRD370UQ: ~ expression 'DRD370UQ'
+
+  @db(length=64)
+  DRD370V: ~ expression 'DRD370V'
+
+  @db(length=64)
+  DRDINT: ~ expression 'DRDINT'
+
+  @db(length=64)
+  DRQSDIET: ~ expression 'DRQSDIET'
+
+  @db(length=64)
+  DRQSDT1: ~ expression 'DRQSDT1'
+
+  @db(length=64)
+  DRQSDT10: ~ expression 'DRQSDT10'
+
+  @db(length=64)
+  DRQSDT11: ~ expression 'DRQSDT11'
+
+  @db(length=64)
+  DRQSDT12: ~ expression 'DRQSDT12'
+
+  @db(length=64)
+  DRQSDT2: ~ expression 'DRQSDT2'
+
+  @db(length=64)
+  DRQSDT3: ~ expression 'DRQSDT3'
+
+  @db(length=64)
+  DRQSDT4: ~ expression 'DRQSDT4'
+
+  @db(length=64)
+  DRQSDT5: ~ expression 'DRQSDT5'
+
+  @db(length=64)
+  DRQSDT6: ~ expression 'DRQSDT6'
+
+  @db(length=64)
+  DRQSDT7: ~ expression 'DRQSDT7'
+
+  @db(length=64)
+  DRQSDT8: ~ expression 'DRQSDT8'
+
+  @db(length=64)
+  DRQSDT9: ~ expression 'DRQSDT9'
+
+  @db(length=64)
+  DRQSDT91: ~ expression 'DRQSDT91'
+
+  @db(length=64)
+  DRQSPREP: ~ expression 'DRQSPREP'
+
+  @db(length=64)
+  SEQN: ~ expression 'SEQN'
+
+  @db(length=64)
+  WTDR2D: ~ expression 'WTDR2D'
+
+  @db(length=64)
+  WTDRD1: ~ expression 'WTDRD1'
+
+  id: ~ expression 'SEQN'
+}
