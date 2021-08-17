@@ -1,0 +1,23 @@
+type TransformCanonicalNotificationContentToCanonicalCanonicalNotificationContent mixes CanonicalCanonicalNotificationContent transforms CanonicalNotificationContent {
+  
+  @db(length=64)
+  emailSubject: ~ expression '"emailSubject"'
+
+  @db(length=64)
+  emailContent: ~ expression '"emailContent"'
+
+  @db(length=64)
+  smsContent: ~ expression '"smsContent"'
+
+  @db(length=64)
+  alertId: ~ expression '"alertId"'
+
+  @db(length=64)
+  sourcesId: ~ expression '"sourcesId"'
+
+  @db(length=64)
+  sourceFileEncodedPath: ~ expression '"sourceFileEncodedPath"'
+
+  @db(length=64)
+  sourceFileUrl: ~ expression '"sourceFileUrl"'
+}
