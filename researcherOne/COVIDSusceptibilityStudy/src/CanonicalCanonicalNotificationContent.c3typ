@@ -1,0 +1,7 @@
+type CanonicalCanonicalNotificationContent mixes Canonical<CanonicalCanonicalNotificationContent> {
+  
+  emailSubject: string
+  emailContent: string
+  smsContent:   string
+  alertId:      string
+}
