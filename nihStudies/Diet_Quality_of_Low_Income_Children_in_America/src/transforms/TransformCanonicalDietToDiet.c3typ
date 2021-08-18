@@ -1,0 +1,340 @@
+type TransformCanonicalDietToDiet mixes Diet transforms CanonicalDiet {
+  
+  DBD100: ~ expression 'DBD100'
+
+  DBQ095Z: ~ expression 'DBQ095Z'
+
+  DR1300: ~ expression 'DR1300'
+
+  DR1320Z: ~ expression 'DR1320Z'
+
+  DR1330Z: ~ expression 'DR1330Z'
+
+  DR1BWATZ: ~ expression 'DR1BWATZ'
+
+  DR1DAY: ~ expression 'DR1DAY'
+
+  DR1DBIH: ~ expression 'DR1DBIH'
+
+  DR1DRSTZ: ~ expression 'DR1DRSTZ'
+
+  DR1EXMER: ~ expression 'DR1EXMER'
+
+  DR1HELPD: ~ expression 'DR1HELPD'
+
+  DR1LANG: ~ expression 'DR1LANG'
+
+  DR1MNRSP: ~ expression 'DR1MNRSP'
+
+  DR1SKY: ~ expression 'DR1SKY'
+
+  DR1STY: ~ expression 'DR1STY'
+
+  DR1TACAR: ~ expression 'DR1TACAR'
+
+  DR1TALCO: ~ expression 'DR1TALCO'
+
+  DR1TATOA: ~ expression 'DR1TATOA'
+
+  DR1TATOC: ~ expression 'DR1TATOC'
+
+  DR1TB12A: ~ expression 'DR1TB12A'
+
+  DR1TBCAR: ~ expression 'DR1TBCAR'
+
+  DR1TCAFF: ~ expression 'DR1TCAFF'
+
+  DR1TCALC: ~ expression 'DR1TCALC'
+
+  DR1TCARB: ~ expression 'DR1TCARB'
+
+  DR1TCHL: ~ expression 'DR1TCHL'
+
+  DR1TCHOL: ~ expression 'DR1TCHOL'
+
+  DR1TCOPP: ~ expression 'DR1TCOPP'
+
+  DR1TCRYP: ~ expression 'DR1TCRYP'
+
+  DR1TFA: ~ expression 'DR1TFA'
+
+  DR1TFDFE: ~ expression 'DR1TFDFE'
+
+  DR1TFF: ~ expression 'DR1TFF'
+
+  DR1TFIBE: ~ expression 'DR1TFIBE'
+
+  DR1TFOLA: ~ expression 'DR1TFOLA'
+
+  DR1TIRON: ~ expression 'DR1TIRON'
+
+  DR1TKCAL: ~ expression 'DR1TKCAL'
+
+  DR1TLYCO: ~ expression 'DR1TLYCO'
+
+  DR1TLZ: ~ expression 'DR1TLZ'
+
+  DR1TM161: ~ expression 'DR1TM161'
+
+  DR1TM181: ~ expression 'DR1TM181'
+
+  DR1TM201: ~ expression 'DR1TM201'
+
+  DR1TM221: ~ expression 'DR1TM221'
+
+  DR1TMAGN: ~ expression 'DR1TMAGN'
+
+  DR1TMFAT: ~ expression 'DR1TMFAT'
+
+  DR1TMOIS: ~ expression 'DR1TMOIS'
+
+  DR1TNIAC: ~ expression 'DR1TNIAC'
+
+  DR1TNUMF: ~ expression 'DR1TNUMF'
+
+  DR1TP182: ~ expression 'DR1TP182'
+
+  DR1TP183: ~ expression 'DR1TP183'
+
+  DR1TP184: ~ expression 'DR1TP184'
+
+  DR1TP204: ~ expression 'DR1TP204'
+
+  DR1TP205: ~ expression 'DR1TP205'
+
+  DR1TP225: ~ expression 'DR1TP225'
+
+  DR1TP226: ~ expression 'DR1TP226'
+
+  DR1TPFAT: ~ expression 'DR1TPFAT'
+
+  DR1TPHOS: ~ expression 'DR1TPHOS'
+
+  DR1TPOTA: ~ expression 'DR1TPOTA'
+
+  DR1TPROT: ~ expression 'DR1TPROT'
+
+  DR1TRET: ~ expression 'DR1TRET'
+
+  DR1TS040: ~ expression 'DR1TS040'
+
+  DR1TS060: ~ expression 'DR1TS060'
+
+  DR1TS080: ~ expression 'DR1TS080'
+
+  DR1TS100: ~ expression 'DR1TS100'
+
+  DR1TS120: ~ expression 'DR1TS120'
+
+  DR1TS140: ~ expression 'DR1TS140'
+
+  DR1TS160: ~ expression 'DR1TS160'
+
+  DR1TS180: ~ expression 'DR1TS180'
+
+  DR1TSELE: ~ expression 'DR1TSELE'
+
+  DR1TSFAT: ~ expression 'DR1TSFAT'
+
+  DR1TSODI: ~ expression 'DR1TSODI'
+
+  DR1TSUGR: ~ expression 'DR1TSUGR'
+
+  DR1TTFAT: ~ expression 'DR1TTFAT'
+
+  DR1TTHEO: ~ expression 'DR1TTHEO'
+
+  DR1TVARA: ~ expression 'DR1TVARA'
+
+  DR1TVB1: ~ expression 'DR1TVB1'
+
+  DR1TVB12: ~ expression 'DR1TVB12'
+
+  DR1TVB2: ~ expression 'DR1TVB2'
+
+  DR1TVB6: ~ expression 'DR1TVB6'
+
+  DR1TVC: ~ expression 'DR1TVC'
+
+  DR1TVD: ~ expression 'DR1TVD'
+
+  DR1TVK: ~ expression 'DR1TVK'
+
+  DR1TWS: ~ expression 'DR1TWS'
+
+  DR1TZINC: ~ expression 'DR1TZINC'
+
+  DRABF: ~ expression 'DRABF'
+
+  DRD340: ~ expression 'DRD340'
+
+  DRD350A: ~ expression 'DRD350A'
+
+  DRD350AQ: ~ expression 'DRD350AQ'
+
+  DRD350B: ~ expression 'DRD350B'
+
+  DRD350BQ: ~ expression 'DRD350BQ'
+
+  DRD350C: ~ expression 'DRD350C'
+
+  DRD350CQ: ~ expression 'DRD350CQ'
+
+  DRD350D: ~ expression 'DRD350D'
+
+  DRD350DQ: ~ expression 'DRD350DQ'
+
+  DRD350E: ~ expression 'DRD350E'
+
+  DRD350EQ: ~ expression 'DRD350EQ'
+
+  DRD350F: ~ expression 'DRD350F'
+
+  DRD350FQ: ~ expression 'DRD350FQ'
+
+  DRD350G: ~ expression 'DRD350G'
+
+  DRD350GQ: ~ expression 'DRD350GQ'
+
+  DRD350H: ~ expression 'DRD350H'
+
+  DRD350HQ: ~ expression 'DRD350HQ'
+
+  DRD350I: ~ expression 'DRD350I'
+
+  DRD350IQ: ~ expression 'DRD350IQ'
+
+  DRD350J: ~ expression 'DRD350J'
+
+  DRD350JQ: ~ expression 'DRD350JQ'
+
+  DRD350K: ~ expression 'DRD350K'
+
+  DRD360: ~ expression 'DRD360'
+
+  DRD370A: ~ expression 'DRD370A'
+
+  DRD370AQ: ~ expression 'DRD370AQ'
+
+  DRD370B: ~ expression 'DRD370B'
+
+  DRD370BQ: ~ expression 'DRD370BQ'
+
+  DRD370C: ~ expression 'DRD370C'
+
+  DRD370CQ: ~ expression 'DRD370CQ'
+
+  DRD370D: ~ expression 'DRD370D'
+
+  DRD370DQ: ~ expression 'DRD370DQ'
+
+  DRD370E: ~ expression 'DRD370E'
+
+  DRD370EQ: ~ expression 'DRD370EQ'
+
+  DRD370F: ~ expression 'DRD370F'
+
+  DRD370FQ: ~ expression 'DRD370FQ'
+
+  DRD370G: ~ expression 'DRD370G'
+
+  DRD370GQ: ~ expression 'DRD370GQ'
+
+  DRD370H: ~ expression 'DRD370H'
+
+  DRD370HQ: ~ expression 'DRD370HQ'
+
+  DRD370I: ~ expression 'DRD370I'
+
+  DRD370IQ: ~ expression 'DRD370IQ'
+
+  DRD370J: ~ expression 'DRD370J'
+
+  DRD370JQ: ~ expression 'DRD370JQ'
+
+  DRD370K: ~ expression 'DRD370K'
+
+  DRD370KQ: ~ expression 'DRD370KQ'
+
+  DRD370L: ~ expression 'DRD370L'
+
+  DRD370LQ: ~ expression 'DRD370LQ'
+
+  DRD370M: ~ expression 'DRD370M'
+
+  DRD370MQ: ~ expression 'DRD370MQ'
+
+  DRD370N: ~ expression 'DRD370N'
+
+  DRD370NQ: ~ expression 'DRD370NQ'
+
+  DRD370O: ~ expression 'DRD370O'
+
+  DRD370OQ: ~ expression 'DRD370OQ'
+
+  DRD370P: ~ expression 'DRD370P'
+
+  DRD370PQ: ~ expression 'DRD370PQ'
+
+  DRD370Q: ~ expression 'DRD370Q'
+
+  DRD370QQ: ~ expression 'DRD370QQ'
+
+  DRD370R: ~ expression 'DRD370R'
+
+  DRD370RQ: ~ expression 'DRD370RQ'
+
+  DRD370S: ~ expression 'DRD370S'
+
+  DRD370SQ: ~ expression 'DRD370SQ'
+
+  DRD370T: ~ expression 'DRD370T'
+
+  DRD370TQ: ~ expression 'DRD370TQ'
+
+  DRD370U: ~ expression 'DRD370U'
+
+  DRD370UQ: ~ expression 'DRD370UQ'
+
+  DRD370V: ~ expression 'DRD370V'
+
+  DRDINT: ~ expression 'DRDINT'
+
+  DRQSDIET: ~ expression 'DRQSDIET'
+
+  DRQSDT1: ~ expression 'DRQSDT1'
+
+  DRQSDT10: ~ expression 'DRQSDT10'
+
+  DRQSDT11: ~ expression 'DRQSDT11'
+
+  DRQSDT12: ~ expression 'DRQSDT12'
+
+  DRQSDT2: ~ expression 'DRQSDT2'
+
+  DRQSDT3: ~ expression 'DRQSDT3'
+
+  DRQSDT4: ~ expression 'DRQSDT4'
+
+  DRQSDT5: ~ expression 'DRQSDT5'
+
+  DRQSDT6: ~ expression 'DRQSDT6'
+
+  DRQSDT7: ~ expression 'DRQSDT7'
+
+  DRQSDT8: ~ expression 'DRQSDT8'
+
+  DRQSDT9: ~ expression 'DRQSDT9'
+
+  DRQSDT91: ~ expression 'DRQSDT91'
+
+  DRQSPREP: ~ expression 'DRQSPREP'
+
+  SEQN: ~ expression 'SEQN'
+
+  WTDR2D: ~ expression 'WTDR2D'
+
+  WTDRD1: ~ expression 'WTDRD1'
+
+  id: ~ expression 'SEQN'
+}

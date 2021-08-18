@@ -1,0 +1,5 @@
+remix type StudySubject {
+    demographics: [Demographic] (SEQN)
+    dietMeasurements: [Diet] (SEQN)
+    questionnaireResponses: [Questionnaire] (SEQN)
+}

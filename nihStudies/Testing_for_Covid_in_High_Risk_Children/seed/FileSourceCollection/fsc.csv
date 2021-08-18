@@ -1,0 +1,3 @@
+id,name,source.TypeName,sourceSystem.id
+CanonicalSubjectProfile,CanonicalSubjectProfile,CanonicalSubjectProfile,Legacy
+CanonicalCovidTestData,CanonicalCovidTestData,CanonicalCovidTestData,Legacy

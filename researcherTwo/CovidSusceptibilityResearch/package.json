@@ -1,0 +1,6 @@
+{
+  "name" : "CovidSusceptibilityResearch",
+  "description" : "Researching the link between diet and mobility in COVID-19 susceptibility.",
+  "author" : "andrew.vanwingerden@c3iot.com",
+  "dependencies" : [ "Diet_Quality_of_Low_Income_Children_in_America"]
+}

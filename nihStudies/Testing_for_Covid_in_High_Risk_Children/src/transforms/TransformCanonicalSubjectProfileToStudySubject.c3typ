@@ -1,0 +1,3 @@
+type TransformCanonicalSubjectProfileToStudySubject mixes StudySubject transforms CanonicalSubjectProfile {
+    id: ~ expression "record_id"
+}
