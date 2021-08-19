@@ -1,0 +1,6 @@
+{
+    "name" : "Displacement_lateral_of_globe_bilateral",
+    "description" : "Displacement (lateral) of globe, bilateral",
+    "author" : "Aurelea Larwood",
+    "dependencies" : [ "nihBase" ]
+  }

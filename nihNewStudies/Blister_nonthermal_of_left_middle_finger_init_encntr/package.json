@@ -1,0 +1,6 @@
+{
+    "name" : "Blister_nonthermal_of_left_middle_finger_init_encntr",
+    "description" : "Blister (nonthermal) of left middle finger, init encntr",
+    "author" : "Edd Fullard",
+    "dependencies" : [ "nihBase" ]
+  }

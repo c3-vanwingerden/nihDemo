@@ -1,0 +1,6 @@
+{
+    "name" : "Reproducible_clinical_test_system_for_1_million_daily_SARS_CoV_2_tests_using_amplicon_sequencing",
+    "description" : "Reproducible clinical test system for 1 million daily SARS-CoV-2 tests using amplicon sequencing",
+    "author" : "Rozelle Corre",
+    "dependencies" : [ "nihBase" ]
+  }

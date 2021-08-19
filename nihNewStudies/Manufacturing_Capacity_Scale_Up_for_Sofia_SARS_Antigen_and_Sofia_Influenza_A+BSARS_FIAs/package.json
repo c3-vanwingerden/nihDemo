@@ -1,0 +1,6 @@
+{
+    "name" : "Manufacturing_Capacity_Scale_Up_for_Sofia_SARS_Antigen_and_Sofia_Influenza_A+BSARS_FIAs",
+    "description" : "Manufacturing Capacity Scale-Up for Sofia SARS Antigen and Sofia Influenza A+B/SARS FIAs",
+    "author" : "Keith Jozwiak",
+    "dependencies" : [ "nihBase" ]
+  }

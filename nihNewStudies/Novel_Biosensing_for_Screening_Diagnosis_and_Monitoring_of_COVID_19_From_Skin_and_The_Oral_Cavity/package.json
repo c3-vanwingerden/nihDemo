@@ -1,0 +1,6 @@
+{
+    "name" : "Novel_Biosensing_for_Screening_Diagnosis_and_Monitoring_of_COVID_19_From_Skin_and_The_Oral_Cavity",
+    "description" : "Novel Biosensing for Screening, Diagnosis and Monitoring of COVID-19 From Skin and The Oral Cavity",
+    "author" : "Spencer Bulger",
+    "dependencies" : [ "nihBase" ]
+  }

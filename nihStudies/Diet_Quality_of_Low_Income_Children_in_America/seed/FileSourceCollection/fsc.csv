@@ -1,4 +1,4 @@
-id,name,source.TypeName,sourceSystem.id
+id,name,source.typeName,sourceSystem.id
 CanonicalDiet,CanonicalDiet,CanonicalDiet,Legacy
 CanonicalDemographic,CanonicalDemographic,CanonicalDemographic,Legacy
 CanonicalQuestionnaire,CanonicalQuestionnaire,CanonicalQuestionnaire,Legacy

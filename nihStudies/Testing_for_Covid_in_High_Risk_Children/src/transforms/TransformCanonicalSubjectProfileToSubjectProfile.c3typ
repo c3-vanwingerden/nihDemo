@@ -1,4 +1,4 @@
-type tt mixes SubjectProfile transforms CanonicalSubjectProfile {
+type TransformCanonicalSubjectProfileToSubjectProfile mixes SubjectProfile transforms CanonicalSubjectProfile {
     id: ~ expression "record_id"
     record_id: ~ expression "record_id"
 study_id: ~ expression "study_id"

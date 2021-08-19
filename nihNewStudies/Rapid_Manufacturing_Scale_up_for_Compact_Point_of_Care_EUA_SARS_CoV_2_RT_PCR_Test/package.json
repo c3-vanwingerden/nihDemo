@@ -1,0 +1,6 @@
+{
+    "name" : "Rapid_Manufacturing_Scale_up_for_Compact_Point_of_Care_EUA_SARS_CoV_2_RT_PCR_Test",
+    "description" : "Rapid Manufacturing Scale-up for Compact Point-of-Care EUA SARS-CoV-2 RT-PCR Test",
+    "author" : "Alphonso Pehrsson",
+    "dependencies" : [ "nihBase" ]
+  }

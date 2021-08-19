@@ -1,0 +1,6 @@
+{
+    "name" : "Malignant_neoplasm_of_liver_and_intrahepatic_bile_ducts",
+    "description" : "Malignant neoplasm of liver and intrahepatic bile ducts",
+    "author" : "Twila Gallaway",
+    "dependencies" : [ "nihBase" ]
+  }

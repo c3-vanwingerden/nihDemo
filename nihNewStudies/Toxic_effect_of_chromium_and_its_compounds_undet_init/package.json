@@ -1,0 +1,6 @@
+{
+    "name" : "Toxic_effect_of_chromium_and_its_compounds_undet_init",
+    "description" : "Toxic effect of chromium and its compounds, undet, init",
+    "author" : "Miller Eyles",
+    "dependencies" : [ "nihBase" ]
+  }

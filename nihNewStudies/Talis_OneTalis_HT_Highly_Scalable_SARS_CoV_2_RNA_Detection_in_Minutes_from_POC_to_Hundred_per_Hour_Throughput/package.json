@@ -1,0 +1,6 @@
+{
+    "name" : "Talis_OneTalis_HT_Highly_Scalable_SARS_CoV_2_RNA_Detection_in_Minutes_from_POC_to_Hundred_per_Hour_Throughput",
+    "description" : "Talis-One/Talis HT: Highly Scalable SARS-CoV-2 RNA Detection in Minutes, from POC to Hundred-per-Hour Throughput",
+    "author" : "Taylor Tutt",
+    "dependencies" : [ "nihBase" ]
+  }

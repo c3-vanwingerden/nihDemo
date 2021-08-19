@@ -1,0 +1,6 @@
+{
+    "name" : "Pedal_cycle_rider_injured_in_collision_w_pedanml",
+    "description" : "Pedal cycle rider injured in collision w ped/anml",
+    "author" : "Wolfy Wimpeney",
+    "dependencies" : [ "nihBase" ]
+  }

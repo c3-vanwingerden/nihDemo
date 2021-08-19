@@ -1,0 +1,6 @@
+{
+    "name" : "Wastewater_Surveillance_Research_for_Public_Health_Response_to_Coronavirus_Disease_2019_COVID_19",
+    "description" : "Wastewater Surveillance Research for Public Health Response to Coronavirus Disease 2019 (COVID-19)",
+    "author" : "Ellery Valenta",
+    "dependencies" : [ "nihBase" ]
+  }

@@ -1,0 +1,6 @@
+{
+    "name" : "Other_specified_injury_of_plantar_artery_of_right_foot",
+    "description" : "Other specified injury of plantar artery of right foot",
+    "author" : "Kathryne Dell Casa",
+    "dependencies" : [ "nihBase" ]
+  }

@@ -1,0 +1,6 @@
+{
+    "name" : "Detection_of_SARS_CoV_2_with_the_CRISPR_based_DETECTR_platform",
+    "description" : "Detection of SARS-CoV-2 with the CRISPR-based DETECTR platform",
+    "author" : "Obidiah Bagley",
+    "dependencies" : [ "nihBase" ]
+  }

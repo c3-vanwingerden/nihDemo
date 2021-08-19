@@ -1,0 +1,6 @@
+{
+    "name" : "Unspecified_injury_of_popliteal_artery_unspecified_leg",
+    "description" : "Unspecified injury of popliteal artery, unspecified leg",
+    "author" : "Reginald Dykes",
+    "dependencies" : [ "nihBase" ]
+  }

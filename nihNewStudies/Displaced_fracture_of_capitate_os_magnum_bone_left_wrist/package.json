@@ -1,0 +1,6 @@
+{
+    "name" : "Displaced_fracture_of_capitate_os_magnum_bone_left_wrist",
+    "description" : "Displaced fracture of capitate [os magnum] bone, left wrist",
+    "author" : "Marius Oxberry",
+    "dependencies" : [ "nihBase" ]
+  }
