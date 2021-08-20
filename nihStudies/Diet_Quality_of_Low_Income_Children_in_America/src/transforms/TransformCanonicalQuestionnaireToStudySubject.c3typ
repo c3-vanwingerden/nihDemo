@@ -1,4 +1,4 @@
-type TransformCanonicalQuestionnaireToQuestionnaire mixes Questionnaire transforms CanonicalQuestionnaire {
+type TransformCanonicalQuestionnaireToStudySubject mixes StudySubject transforms CanonicalQuestionnaire {
   id: ~ expression 'SEQN'
   SEQN: ~ expression "SEQN"
 ACD011A: ~ expression "ACD011A"

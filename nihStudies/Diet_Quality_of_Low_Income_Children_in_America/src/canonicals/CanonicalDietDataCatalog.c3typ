@@ -1,0 +1,6 @@
+type CanonicalDietDataCatalog mixes Canonical<CanonicalDietDataCatalog> {
+    @ser(name="Variable Name")
+    VariableName: string
+    @ser(name="Variable Description")
+    VariableDescription: string
+}

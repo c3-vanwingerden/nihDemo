@@ -1,4 +1,4 @@
-type TransformCanonicalDemographicToDemographic mixes Demographic transforms CanonicalDemographic {
+type TransformCanonicalDemographicToStudySubject mixes StudySubject transforms CanonicalDemographic {
   id: ~ expression 'SEQN'
   SEQN: ~ expression "SEQN"
 SDDSRVYR: ~ expression "SDDSRVYR"

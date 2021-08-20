@@ -1,5 +1,52 @@
-entity type CovidTestData schema name "CVD_TST_DTA" {
+remix type StudySubject {
+    // covid test data
+    record_id: string
     user_id: string
+study_id: string
+race: string
+ethnicity: string
+age: string
+sex: string
+education: string
+zip: string
+employment: string
+insurance: string
+deaf: string
+blind: string
+memory_dis: string
+walking_climbing_dis: string
+dress_bathe_dis: string
+errand_dis: string
+cancer: string
+cardiovascular_disease: string
+chronic_kidney_disease: string
+chronic_lung_disease: string
+diabetes: string
+hypertension: string
+immunosuppressive_conditio: string
+serious_mental_illness: string
+sickle_cell_disease: string
+pregnancy_status: string
+cough: string
+fever: string
+shortness_of_breath_or_dif: string
+headache: string
+muscle_ache: string
+new_loss_of_taste_or_smell: string
+chills: string
+excessive_fatigue: string
+nausea_vomiting: string
+diarrhea: string
+abdominal_pain: string
+skin_rash: string
+conjunctivitis: string
+height_embedding: string
+height_feet: string
+height_inches: string
+weight_lbs: string
+health_status: string
+
+// Subject Profile
 site: string
 research_test: string
 research_result: string

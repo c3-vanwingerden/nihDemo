@@ -1,5 +1,5 @@
-type TransformCanonicalCovidTestDataToCovidTestData mixes CovidTestData transforms CanonicalCovidTestData {
-    id: !~ expression "concat(user_id, '_', research_result_datetime)"
+type TransformCanonicalCovidTestDataToStudySubject mixes StudySubject transforms CanonicalCovidTestData {
+    id: ~ expression "user_id"
     user_id: ~ expression "user_id"
 site: ~ expression "site"
 research_test: ~ expression "research_test"

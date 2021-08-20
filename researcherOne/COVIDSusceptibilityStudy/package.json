@@ -2,5 +2,5 @@
   "name" : "COVIDSusceptibilityStudy",
   "description" : "Researching the impact of diet on COVID-19 susceptibility",
   "author" : "andrew.vanwingerden@c3iot.com",
-  "dependencies" : [ "Diet_Quality_of_Low_Income_Children_in_America", "Testing_for_Covid_in_High_Risk_Children", "standardDependencies" ]
+  "dependencies" : [ "Diet_Quality_of_Low_Income_Children_in_America", "Testing_for_Covid_in_High_Risk_Children" ]
 }
