@@ -4,11 +4,7 @@ remix type StudySubject {
     user_id: string
 study_id: string
 race: string
-ethnicity: string
 age: string
-sex: string
-education: string
-zip: string
 employment: string
 insurance: string
 deaf: string
@@ -27,7 +23,6 @@ immunosuppressive_conditio: string
 serious_mental_illness: string
 sickle_cell_disease: string
 pregnancy_status: string
-cough: string
 fever: string
 shortness_of_breath_or_dif: string
 headache: string
@@ -179,14 +174,12 @@ stand_cycle_time_tar: string
 tiebreaker_ordered: string
 tiebreaker_datetime: string
 hbp: string
-diabetes: string
 coronary_artery_disease: string
 heart_attack: string
 chf: string
 stroke: string
 copd: string
 asthma: string
-cancer: string
 immunodeficiency: string
 hiv: string
 anemia: string

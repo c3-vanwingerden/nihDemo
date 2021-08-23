@@ -4,6 +4,7 @@
   "description" : "Researcher One Repository",
   "dependencies" : {
     "server" : "7.17.0+1019",
-    "nihStudies" : "1.0.0+6 || 1.0.0+6"
+    "nihStudies" : "1.0.0+6 || 1.0.0+6",
+    "c3aiDataLake" : "1.0.4+4"
   }
 }
